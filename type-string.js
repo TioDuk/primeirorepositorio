@@ -1,3 +1,13 @@
+
+const citaçao = ' Meu nome é ';
+const meuNome = "Zé Pikeno porra!";
+
+
+//concatenaçao (+)
+
+console.log(citaçao + meuNome);
+
+
 const citaçao = ' Meu nome é ';
 const meuNome = "Zé Pikeno porra!";
 
